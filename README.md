@@ -1,4 +1,4 @@
-# Desafio Mobile Developer - Agriness
+# Desafio Mobile Developer
 
 ## Introdução
 
